@@ -1,5 +1,5 @@
 # Localization-for-tweaks
 Localization for tweaks
 
-Move to Cannathea
+Pasithea has been moved to Cannathea.  
 https://github.com/Cannathea/Localization-for-tweaks
